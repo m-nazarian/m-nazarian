@@ -1,141 +1,69 @@
-# Building Software That Helps Businesses Grow
+<h1 align="center">Mohammad Nazarian</h1>
 
-Hi, I'm Mohammad Nazarian.
+<h3 align="center">
+  Backend Developer • Python & Django
+</h3>
 
-I'm a Backend Developer specializing in Python and Django, with a strong focus on building business software.
+<p align="center">
+  Building scalable ERP, accounting and e-commerce software for real business needs.
+</p>
 
-I develop ERP systems, e-commerce platforms, accounting software, and custom web applications that help companies simplify operations and scale efficiently.
-
----
-
-## What I build
-
-✔ ERP & Business Management Systems
-
-✔ E-commerce Platforms
-
-✔ Accounting & Financial Software
-
-✔ Custom Web Applications
-
-✔ REST APIs
+<p align="center">
+  <a href="mailto:pythonnazarian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-nazarian-73277633b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-## My Tech Stack
+<h3 align="center">Tech Stack</h3>
 
-🐍 Python
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" title="Nginx"/>
+</p>
 
-🎯 Django
-
-🐘 PostgreSQL
-
-⚡ HTMX
-
-🎨 Tailwind CSS
-
-🌐 JavaScript
-
-🔧 Linux
-
-🚀 Nginx
+<p align="center">
+  Python • Django • PostgreSQL • HTMX • Tailwind CSS • REST APIs
+</p>
 
 ---
+
+## About Me
+
+- 🏢 Developing business-oriented applications with a focus on ERP and accounting systems
+- 🧩 Interested in clean architecture, maintainability and scalable backend design
+- 🚀 Currently improving my skills in Docker, Redis, Celery, React and CI/CD
+- 🤝 Available for freelance projects and long-term collaborations
 
 ## Featured Projects
 
-### 🏢 Business ERP System
-
-A scalable ERP platform designed for managing business operations including customers, inventory, accounting, and internal workflows.
-
-Currently under active development.
-
----
-
-### 🛒 RedShop
-
-Modern Django E-commerce Platform
-
-Features include:
-
-• Product Management
-
-• Categories
-
-• Shopping Cart
-
-• Checkout
-
-• Order Management
-
-• PostgreSQL
-
-• Custom Admin
+| Project | Description | Status |
+|:--|:--|:--:|
+| **Enterprise Resource Planning** | Modular ERP system for accounting, customers, inventory and business workflows | 🚧 Active |
+| **RedShop** | Django e-commerce platform with cart, checkout, orders and custom administration | ✅ Developed |
+| **MarketRadar** | Market intelligence platform for monitoring products, prices and competitors | 🧪 In Development |
 
 ---
 
-### 📊 MarketRadar
+<p align="center">
+  <b>Building reliable software that helps businesses operate and grow.</b>
+</p>
 
-Market analysis platform for monitoring products, pricing, competitors, and business insights.
-
----
-
-## My Development Philosophy
-
-I believe software should solve real business problems.
-
-My focus is writing clean, maintainable, and scalable code instead of simply making features work.
-
-I enjoy designing systems that remain reliable as businesses grow.
-
----
-
-## Currently Learning
-
-• React
-
-• Docker
-
-• Redis
-
-• Celery
-
-• CI/CD
-
----
-
-## Open for
-
-✔ Freelance Projects
-
-✔ Long-term Collaboration
-
-✔ Business Software Development
-
-✔ Django Backend Development
-
----
-
-## Why Clients Work With Me
-
-✔ Clean Architecture
-
-✔ Scalable Solutions
-
-✔ Business-Oriented Development
-
-✔ Long-Term Maintainability
-
-✔ Clear Communication
-
-✔ Reliable Delivery
-
----
-
-## Let's Connect
-
-💼 LinkedIn
-
-📧 pythonnazarian@gmail.com
-
-🌍 Portfolio (Coming Soon)
+<p align="center">
+  📧 <a href="mailto:pythonnazarian@gmail.com">pythonnazarian@gmail.com</a>
+</p>
